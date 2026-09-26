@@ -16,3 +16,5 @@ console.log("test");
 console.log("Ini dari branch latihan");
 
 console.log("Perubahan dari GitHub");
+
+console.log("Fitur login sedang dibuat");
