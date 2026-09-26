@@ -1,6 +1,6 @@
 let proses = new Promise((resolve , reject) => {
     let username = "zeref";
-    let password = "12343";
+    let password = "12345";
 
     if (username === "zeref" && password === "12345"){
         resolve("Login Berhasil");
