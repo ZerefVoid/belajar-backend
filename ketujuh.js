@@ -15,7 +15,7 @@ console.log("test");
 
 console.log("Ini dari branch latihan");
 
-console.log("Perubahan dari GitHub");
+console.log("Versi konflik dari A");
 
 console.log("Fitur login sedang dibuat");
 
