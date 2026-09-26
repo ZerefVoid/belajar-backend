@@ -1,4 +1,4 @@
-// git init       → buat repository
+  // git init       → buat repository
 // git status     → cek kondisi
 // git add        → staging
 // git commit     → simpan versi
@@ -14,3 +14,5 @@ console.log("belajar git");
 console.log("test");
 
 console.log("Ini dari branch latihan");
+
+console.log("Perubahan dari GitHub");
